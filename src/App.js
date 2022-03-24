@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Artist page 
+          Artist page updated test
         </a>
       </header>
     </div>
